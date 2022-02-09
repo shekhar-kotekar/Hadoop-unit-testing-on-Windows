@@ -10,7 +10,7 @@
 
     <properties>
         <scala.version.major>2.11</scala.version.major>
-        <hadoop.version>2.7.1</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <scala.version.minor>${scala.version.major}.7</scala.version.minor>
         <skipInstall>true</skipInstall>
         <org.scalatest.version>3.1.0-RC1</org.scalatest.version>
